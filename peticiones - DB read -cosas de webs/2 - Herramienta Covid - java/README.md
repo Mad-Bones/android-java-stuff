@@ -36,8 +36,9 @@ package="tu.app">
 `
  
 ## Capturas:
-![pantallaInicial](https://github.com/Mad-Bones/android-java-stuff/blob/main/peticiones%20-%20DB%20read%20-cosas%20de%20webs/buscar%20matricula/buscaMatriA.webp)
-![pantallaResultado](https://github.com/Mad-Bones/android-java-stuff/blob/main/peticiones%20-%20DB%20read%20-cosas%20de%20webs/buscar%20matricula/buscaMatriB.webp)
+![pantalla Inicial](https://github.com/Mad-Bones/android-java-stuff/blob/main/peticiones%20-%20DB%20read%20-cosas%20de%20webs/2%20-%20Herramienta%20Covid%20-%20java/covidA.webp)
+![pantalla lista vacia](https://github.com/Mad-Bones/android-java-stuff/blob/main/peticiones%20-%20DB%20read%20-cosas%20de%20webs/2%20-%20Herramienta%20Covid%20-%20java/covidB.webp)
+![pantalla lista](https://github.com/Mad-Bones/android-java-stuff/blob/main/peticiones%20-%20DB%20read%20-cosas%20de%20webs/2%20-%20Herramienta%20Covid%20-%20java/covidC.webp)
 
 ## Como probarlo?:
 
