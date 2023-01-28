@@ -31,8 +31,8 @@ package="tu.app">
 `
  
 ## Capturas:
-![pantallaInicial](https://github.com/Mad-Bones/android-java-stuff/blob/main/peticiones%20-%20DB%20read%20-cosas%20de%20webs/buscar%20matricula/buscaMatriA.webp)
-![pantallaResultado](https://github.com/Mad-Bones/android-java-stuff/blob/main/peticiones%20-%20DB%20read%20-cosas%20de%20webs/buscar%20matricula/buscaMatriB.webp)
+![pantallaInicial](https://github.com/Mad-Bones/android-java-stuff/blob/main/peticiones%20-%20DB%20read%20-cosas%20de%20webs/1%20-%20buscar%20matricula%20-%20java/buscaMatriA.webp)
+![pantallaResultado](https://github.com/Mad-Bones/android-java-stuff/blob/main/peticiones%20-%20DB%20read%20-cosas%20de%20webs/1%20-%20buscar%20matricula%20-%20java/buscaMatriB.webp)
 
 ## Como probarlo?:
 
