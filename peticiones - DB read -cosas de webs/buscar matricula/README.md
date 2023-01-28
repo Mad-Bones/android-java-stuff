@@ -37,4 +37,4 @@ package="tu.app">
 ` 3 - ` Correr el proyecto o darle a Build para que android studio prepare lo demas. 
 ` 4 - ` Puedes copiar todo el contenido de >app\src\main\java\com\estaApp\... a la misma direccion de tu proyecto y Android Studio seencarga de renombrar los Accesos. Caso contrario sera necesario usar la logica y cambiar el nombre del paquete de los archivos que pegaste.
 ` 5 - ` Ahora dependiendo de los recursos que usa la app se copian algunas carpetas y archivos dentro de >app\src\main\res. Estas son: \layout - \drawable - \values\colors.xml - \values\strings.xml
-` Opcional - ` El uso de la logica es opcional pero necesaria en este caso. en caso de necesitar algun pedaso de codigo, este se busca y se agrega al mismo archivo. Lo mismo sucede en caso de las carpetas o algoritmos etc... Es mejor fallar por muerte que por falta de neuronas.
+` Opcional - ` El uso de la logica es opcional pero necesaria en este caso. en caso de necesitar algun pedaso de codigo, este se busca y se agrega al mismo archivo. Lo mismo sucede en caso de las carpetas o algoritmos etc... Es mejor fallar por muerte que por falta de neuronas. =)
