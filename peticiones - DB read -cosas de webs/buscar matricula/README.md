@@ -30,6 +30,10 @@ package="tu.app">
     . . .
 `
  
+## Capturas:
+[![pantallaInicial](https://github.com/Mad-Bones/android-java-stuff/blob/main/peticiones%20-%20DB%20read%20-cosas%20de%20webs/buscar%20matricula/IMG-20230128-WA0003.jpg)]
+[![pantallaResultado](https://github.com/Mad-Bones/android-java-stuff/blob/main/peticiones%20-%20DB%20read%20-cosas%20de%20webs/buscar%20matricula/IMG-20230128-WA0004.jpg)]
+
 ## Como probarlo?:
 
 ` 1 - ` Crear un proyecto cualquiera en Android Studio.
