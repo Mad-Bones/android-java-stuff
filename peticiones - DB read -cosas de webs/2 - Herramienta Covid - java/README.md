@@ -9,30 +9,25 @@ ESTA ECHO PARA ARCHIVOS PEQUEÑOS DE UNAS TRES MIL FILAS. NO UN MILLON. NO SEAS 
 ## Dependencias:
 
 >app\build.gradle 
-`
-  dependencies {
+`dependencies {
     ...
     //para almacenar datos en lugar del viejo DBHelper
     
     implementation 'androidx.room:room-runtime:2.4.2'
     annotationProcessor 'androidx.room:room-compiler:2.4.2'
     annotationProcessor 'android.arch.persistence.room:compiler:1.1.1'
-  }
-`
+  }`
 
 ## Manifiesto:
 
 >app\src\main\AndroidManifest.xml 
-` 
-<manifest 
+`<manifest 
 xmlns:android="http://schemas.android.com/apk/res/android" 
 xmlns:tools="http://schemas.android.com/tools" 
 package="tu.app">
     
     /** SE AGREGA ESTE PERMISO **/
-    <uses-permission android:name="android.permission.INTERNET"/> 
-    <application
-    . . .
+    <uses-permission android:name="android.permission.INTERNET"/>
 `
  
 ## Capturas:
